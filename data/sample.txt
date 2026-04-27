@@ -1,0 +1,3 @@
+Employees on probation have a notice period of 15 days.
+Resignation requires manager approval.
+Leave policy allows 2 days per month.
